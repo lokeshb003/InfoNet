@@ -1,4 +1,3 @@
 nmap
-git
 php8.1
 
