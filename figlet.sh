@@ -1,0 +1,15 @@
+figlet INFONET
+echo " This script is done by Lokesh Balaji"
+echo " All in one Information Gathering scirpt"
+echo "                                        "
+echo "                                        "
+echo "                                        "
+echo "                                        "
+echo "  [0] -  Network Mapper ( nmap )                                     "
+echo "  [1] -  Xerosploit ( Advanced pentesting toolkit)                                      "
+echo "  [2] -  RedHawk ( All in one info gathering and Vulnerablity testing toolkit )                                    "
+echo "  [3] -  Reconspider (  Most Advanced OSINT )                                   "
+echo "  [4] -  Infoga ( OSINT Info Gathering toolkit )                                     "
+echo "                                        "
+echo "                                        "
+
