@@ -6,6 +6,6 @@ apt-get install libpcap-dev
 apt-get install libgmp3-dev
 apt-get install tabulate
 apt-get install terminaltables
-https://github.com/LionSec/xerosploit
+git clone https://github.com/LionSec/xerosploit
 cd xerosploit && sudo python3 install.py
 sudo xerosploit
