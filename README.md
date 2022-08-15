@@ -4,14 +4,22 @@ InfoNet is a Simple Basic All in one Information gathering script wriiten in Pyt
 
 Requirements :
     hping3 :  apt-get install hping3
+    
     build-essential : apt-get install build-essential
+    
     ruby-dev : apt-get install ruby-dev
+    
     libpcap-dev : apt-get install libpcap-dev
+    
     libgmp3-dev : apt-get install libgmp3-dev
+    
     tabulate : apt-get install tabulate
+    
     terminaltables : apt-get install terminaltables
     
 Installation:
     cd InfoNet
+    
     python3 infonet.py
+    
     Thats it ;) Thank you !
