@@ -22,6 +22,10 @@ Installation:
 
     cd InfoNet
     
+    chmod +x master.sh
+    
+    ./master.sh
+    
     python3 infonet.py
     
    
